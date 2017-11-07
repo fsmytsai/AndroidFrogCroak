@@ -7,4 +7,4 @@
 
 專案中圖片皆有版權，請勿隨意使用。
 
-成品：[Google Play連結](https://play.google.com/store/apps/details?id=com.mytsai.FrogCroak)
+成品(Xamarin.Android 版)：[Google Play連結](https://play.google.com/store/apps/details?id=com.mytsai.FrogCroak)
