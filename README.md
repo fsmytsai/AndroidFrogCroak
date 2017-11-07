@@ -5,4 +5,6 @@
 
 不過後來轉去寫 Xamarin.Android ，所以 Java 版從黑客松第二天起再也沒更新過的樣子。
 
+專案中圖片皆有版權，請勿隨意使用。
+
 成品：[Google Play連結](https://play.google.com/store/apps/details?id=com.mytsai.FrogCroak)
